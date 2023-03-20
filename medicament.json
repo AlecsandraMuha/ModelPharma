@@ -1,0 +1,26 @@
+{
+  "3": {
+    "py/object": "Domain.medicament.Medicament",
+    "idEntitate": "3",
+    "numeMedicament": "a",
+    "producator": "a",
+    "pret": 12.0,
+    "reteta": "da"
+  },
+  "4": {
+    "py/object": "Domain.medicament.Medicament",
+    "idEntitate": "4",
+    "numeMedicament": "a",
+    "producator": "a",
+    "pret": 12.0,
+    "reteta": "da"
+  },
+  "1": {
+    "py/object": "Domain.medicament.Medicament",
+    "idEntitate": "1",
+    "numeMedicament": "1",
+    "producator": "1",
+    "pret": 12.0,
+    "reteta": "da"
+  }
+}

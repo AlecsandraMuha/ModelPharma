@@ -1,0 +1,31 @@
+{
+  "1": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "1",
+    "nume": "a",
+    "prenume": "a",
+    "datanasterii": {
+      "py/object": "datetime.datetime",
+      "__reduce__": [
+        {
+          "py/type": "datetime.datetime"
+        },
+        [
+          "B+QMDAAAAAAAAA=="
+        ]
+      ]
+    },
+    "CNP": "122",
+    "datainreg": {
+      "py/object": "datetime.datetime",
+      "__reduce__": [
+        {
+          "py/type": "datetime.datetime"
+        },
+        [
+          "B+QMDAAAAAAAAA=="
+        ]
+      ]
+    }
+  }
+}
